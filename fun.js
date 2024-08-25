@@ -1,0 +1,5 @@
+const moein  = ()=>{
+
+return "add" ; 
+
+}
