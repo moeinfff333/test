@@ -1,7 +1,10 @@
-const test =()=>{
-return false;
+let moein = ()=>{
+return true;
+}
 
-} 
 
+const test  = ()=>{
+return false 
 
+}
 
