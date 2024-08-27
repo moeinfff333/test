@@ -8,3 +8,6 @@ return false
 
 }
 
+const hassan = ()=>{
+return true
+}
