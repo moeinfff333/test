@@ -13,5 +13,5 @@ return true
 }
 
 const test = ()=>{
-
+ return "test"
 }
