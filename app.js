@@ -12,6 +12,7 @@ const hassan = ()=>{
 return true
 }
 
-const test = ()=>{
- return "test"
+
+function mmmmm(){
+return "mmmmmm"
 }
